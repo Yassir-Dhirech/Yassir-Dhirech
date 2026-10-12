@@ -2,7 +2,7 @@
 
 Computer Engineering student at **ENSA Fès**, focused on full-stack web development. I like taking a project from "nothing exists yet" to something people actually use every day.
 
-- 🎓 4th-year Computer Engineering student — Software Engineering track
+- 🎓 5th-year Computer Engineering student — Software Engineering track
 - 🚀 Built and shipped two live platforms currently used by 1,800+ students
 - 💼 Full-stack intern at CHU Fès (Centre Hospitalier Universitaire Hassan II) — designed and delivered a solo web app end-to-end
 - 🤝 President of **ADEI ENSAF** and **Rotaract Club ENSA Fès**
